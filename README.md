@@ -2,7 +2,6 @@
 📂 Repositório voltado para estudos e práticas com Git e GitHub. Inclui exemplos de versionamento, comandos básicos e avançados, fluxos de trabalho e boas práticas para colaboração em projetos. Ideal para reforçar o aprendizado de controle de versão e manter um guia de consulta rápida.
 
 
-#sobre_o_git
 📌 Sobre o Git
 
 O Git é um sistema de controle de versão distribuído, criado por Linus Torvalds em 2005, que permite acompanhar o histórico de alterações de um projeto, colaborar com outras pessoas e manter diferentes versões do mesmo código de forma organizada.
